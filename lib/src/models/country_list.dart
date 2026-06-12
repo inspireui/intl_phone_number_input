@@ -1361,6 +1361,24 @@ class Countries {
       }
     },
     {
+      "num_code": "531",
+      "alpha_2_code": "CW",
+      "alpha_3_code": "CUW",
+      "en_short_name": "Curaçao",
+      "nationality": "Curaçaoan",
+      "dial_code": "+599",
+      "nameTranslations": {}
+    },
+    {
+      "num_code": "535",
+      "alpha_2_code": "BQ",
+      "alpha_3_code": "BES",
+      "en_short_name": "Caribbean Netherlands",
+      "nationality": "Dutch Caribbean",
+      "dial_code": "+599",
+      "nameTranslations": {}
+    },
+    {
       "num_code": "136",
       "alpha_2_code": "KY",
       "alpha_3_code": "CYM",
@@ -4358,7 +4376,8 @@ class Countries {
         "ar": "مقدونيا",
         "fa": "مقدونیه",
         "yue": "馬其頓（前南斯拉夫共和國）",
-        "el": "Βόρεια Μακεδονία (πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας)",
+        "el":
+            "Βόρεια Μακεδονία (πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας)",
       }
     },
     {
@@ -7467,7 +7486,7 @@ class Countries {
       "num_code": "792",
       "alpha_2_code": "TR",
       "alpha_3_code": "TUR",
-      "en_short_name": "Turkey",
+      "en_short_name": "Türkiye",
       "nationality": "Turkish",
       "dial_code": "+90",
       "national_dial_code": "0",
@@ -7483,7 +7502,7 @@ class Countries {
         "de": "Türkei",
         "fr": "Turquie",
         "es": "Turquía",
-        "en": "Turkey",
+        "en": "Türkiye",
         "pt_BR": "Peru",
         "sr-Cyrl": "Турска",
         "sr-Latn": "Turska",
@@ -7698,7 +7717,7 @@ class Countries {
       "num_code": "826",
       "alpha_2_code": "GB",
       "alpha_3_code": "GBR",
-      "en_short_name": "United Kingdom of Great Britain and Northern Ireland",
+      "en_short_name": "United Kingdom of Great Britain",
       "nationality": "British, UK",
       "dial_code": "+44",
       "national_dial_code": "0",
@@ -7724,7 +7743,8 @@ class Countries {
         "ar": "المملكة المتحدة",
         "fa": "بریتانیا",
         "yue": "大不列顛及北愛爾蘭聯合王國",
-        "el": "Ηνωμένο Βασίλειο της Μεγάλης Βρετανίας και της Βόρειας Ιρλανδίας",
+        "el":
+            "Ηνωμένο Βασίλειο της Μεγάλης Βρετανίας και της Βόρειας Ιρλανδίας",
       }
     },
     {
